@@ -1,2 +1,4 @@
 # translate
-Source Cli Translator in Python 
+سورس مترجم پایتون
+
+https://t.me/NFBTeam
