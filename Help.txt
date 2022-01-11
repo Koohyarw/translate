@@ -1,0 +1,12 @@
+===============:\
+               :/
+##api id       :\.............
+##api hash     : =====> Edit :
+##admin id     :/'''''''''''''
+               :\
+===============:/
+
+1 . cd folder name
+2 . chmod +x install.sh
+3 . ./install.sh
+4 . Python3 Tr.py
